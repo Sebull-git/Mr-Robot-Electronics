@@ -1,0 +1,24 @@
+# Entwicklertagebuch "Mr. Robot" GmbH
+
+- 24.02.2022
+	- Ideenfindung
+	- Logoerstellung
+		- "Mr. Robot Logo"
+			- Roboter wegen "Mr. Robot"
+			- Monokel und Schnurrbart wegen "Mr."
+			- Gold wegen einzigartiges
+	- Firmengründung
+		- "Mr. Robot Electronics GmbH"
+	- Hausaufgaben für das nächste Treffen:
+		- Marc
+			- Logo
+		- Albert
+			- Ausarbeit der Firma
+				- Geschichte (Vater - Sohn - Unternehmen: Vater: Rente; Sohn: Entwickler)
+				- Motivation
+		- Sebastian
+			- Komponenten des Systems
+				- Onlineshop
+				- Datenbank
+- Aufgaben für das nächste Treffen
+	- 
